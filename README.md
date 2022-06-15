@@ -1,4 +1,4 @@
-### `Click Here For Live Demo : ` \
+### `Click Here For Live Demo : ` 
 https://harshitratanshukla.ml/
 
 # Portfolio - Harshit Ratan Shukla
